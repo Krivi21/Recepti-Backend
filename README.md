@@ -1,2 +1,2 @@
 # Recepti-Backend
-Spring framework with EAR
+Spring framework with EAR, IDE Eclipse
